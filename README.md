@@ -61,7 +61,6 @@ We study the distributions of the different attributes using univariate, bivaria
 
 Data was preprocessed first by studying the correlation matrix to discard features that were perfectly correlated, and then by performing one hot encoding for the categorical features and normalizing the numerical features.
 
-# Data analysis
 
 The following models were compared: K-Nearest Neighbors, XGBoost, Logistic Regression, and Random Forest. The hyperparameters of each model were tuned using grid search and random search on the evaluation metric roc_auc, and the models were trained with the optimized hyperparameters.
 
