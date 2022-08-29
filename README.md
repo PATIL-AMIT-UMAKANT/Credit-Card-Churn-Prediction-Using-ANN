@@ -57,7 +57,6 @@ Credit card churning is the problem of customers rapidly opening and closing cre
 
 We study the distributions of the different attributes using univariate, bivariate, and dynamic multivariate plots.
 
-# Data preprocessing
 
 Data was preprocessed first by studying the correlation matrix to discard features that were perfectly correlated, and then by performing one hot encoding for the categorical features and normalizing the numerical features.
 
