@@ -1,4 +1,5 @@
 # Credit-Card-Churn-Prediction-Using-ANN
+![credit-card-4-e1591553820561](https://user-images.githubusercontent.com/94529852/187268665-4f857872-7d74-4a73-aed9-244f8529ed3f.jpg)
 
 Credit card institutions use customer churning to predict who is going to stop using their credit card services. This churn metrics helps institutions improve customer retention.
 
